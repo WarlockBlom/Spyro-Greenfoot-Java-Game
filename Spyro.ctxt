@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Spyro
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Spyro\ here.\r\n\ \r\n\ @author\ (Courtney\ McGuinness)\ \r\n\ @version\ (a\ 2.0\ or\ a\ 14/04/22)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Spyro\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ moveAndTurn()
+comment3.params=
+comment3.target=void\ addGem()
+comment4.params=angle
+comment4.target=void\ Fire(int)
+comment5.params=
+comment5.target=void\ Collect()
+numComments=6
